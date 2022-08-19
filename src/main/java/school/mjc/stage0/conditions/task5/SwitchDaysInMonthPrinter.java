@@ -11,7 +11,6 @@ public class SwitchDaysInMonthPrinter {
             case 6:
             case 9:
             case 11:
-
                 System.out.println("30");
                 break;
             case 1:
@@ -25,7 +24,7 @@ public class SwitchDaysInMonthPrinter {
                 break;
             default:
                 System.out.println("wrong number!");
-
+                break;
         }
     }
 }
